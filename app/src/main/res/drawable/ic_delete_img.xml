@@ -1,0 +1,25 @@
+<!--
+  ~ Created by Dilip Singh on 4/1/21 6:48 PM
+  ~ Copyright (c) 2021 . All rights reserved.
+  ~ Last modified 4/1/21 6:48 PM
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="20dp"
+    android:height="20dp"
+    android:viewportWidth="20"
+    android:viewportHeight="20">
+    <path
+        android:pathData="M10,10m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0"
+        android:strokeWidth="2"
+        android:fillColor="#db3a4a"
+        android:strokeColor="#00000000" />
+    <path
+        android:pathData="M10,10m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:strokeColor="#fff" />
+    <path
+        android:pathData="M13.352,6.231a0.788,0.788 0,0 0,-1.115 0L9.792,8.674l-2.445,-2.445a0.789,0.789 0,0 0,-1.115 1.115L8.679,9.792l-2.445,2.445a0.789,0.789 0,1 0,1.115 1.115l2.445,-2.445 2.445,2.445a0.789,0.789 0,0 0,1.115 -1.115l-2.445,-2.445 2.445,-2.445A0.788,0.788 0,0 0,13.352 6.231Z"
+        android:fillColor="#fff" />
+</vector>
